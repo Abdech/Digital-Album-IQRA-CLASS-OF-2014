@@ -1,0 +1,26 @@
+[
+	{
+		"nickname": "BK, Headboy, Baba",
+		"name": "Abdulhamid Usman Hamid",
+		"Class": "A class",
+		"Status": "single",
+		"left": "Jss1 - Sss3",
+		"course": "Computer Science"
+	},
+	{
+		"nickname": "Malam",
+		"name": "Abdulaziz Saad",
+		"Class": "A class",
+		"Status": "single",
+		"left": "Jss1 - Sss3",
+		"course": "Urban and regional Planning"
+	},
+	{
+		"nickname": "Adinas",
+		"name": "Sadiq Ibrahim Saad",
+		"Class": "A class",
+		"Status": "single",
+		"left": "Sss1 - Sss3",
+			"course": "Urban and regional Planning"
+	}
+]
