@@ -1,26 +1,260 @@
 [
 	{
 		"nickname": "BK, Headboy, Baba",
-		"name": "Abdulhamid Usman Hamid",
-		"Class": "A class",
-		"Status": "single",
+		"name": "Abdulhameed Usman Hameed",
+		"number": "07037217897",
+		"Status": "Single",
 		"left": "Jss1 - Sss3",
-		"course": "Computer Science"
+		"course": "Computer Science",
+		"path": "../data/images/bk.jpg",
+		"address": "Bali Road Karewa GRA Jimeta/Yola, Adamawa"
 	},
 	{
 		"nickname": "Malam",
 		"name": "Abdulaziz Saad",
-		"Class": "A class",
-		"Status": "single",
+		"number": "08175888883",
+		"Status": "Single",
 		"left": "Jss1 - Sss3",
-		"course": "Urban and regional Planning"
+		"course": "Urban and regional Planning",
+		"path": "../data/images/aziz.svg",
+		"address": "Plot 31/32 Federal Housing Estate, PhaseII,  Behind Siver Hotel"
 	},
 	{
 		"nickname": "Adinas",
 		"name": "Sadiq Ibrahim Saad",
-		"Class": "A class",
-		"Status": "single",
+		"number": "08175888883",
+		"Status": "Single",
 		"left": "Sss1 - Sss3",
-			"course": "Urban and regional Planning"
+		"course": "Urban and regional Planning",
+		"path": "../data/images/aziz.jpeg",
+		"address": "Plot 31/32 Federal Housing Estate, PhaseII,  Behind Siver Hotel"
+	},
+	{
+		"nickname": "Amir",
+		"name": "Faisal Hamza",
+		"number": "May Allah Forgive You",
+		"Status": "Single",
+		"left": "Jss1 - Sss3",
+		"path": "../data/images/faisal.jpg",
+		"address": "Deceased"
+	},
+	{
+		"nickname": "Yasmeen",
+		"name": "Fatima Yasmeen Bello",
+		"number": "May Allah Forgive You",
+		"Status": "Single",
+		"left": "Sss1 - Sss3",
+		"path": "../data/images/yasmeen.jpg",
+		"address": "-"
+	},
+	{
+		"nickname": "Umaima",
+		"name": "Umaima Abdullahi",
+		"number": "081566136673",
+		"Status": "Married",
+		"left": "Sss1 - Sss3",
+		"course": "Economics",
+		"path": "../data/images/umaima.jpg",
+		"address": "To be verified..."
+	},
+	{
+		"nickname": "Maryam",
+		"name": "Maryam Mahmud",
+		"number": "09077771130",
+		"Status": "Married",
+		"left": "Sss1 - Sss3",
+		"course": "To be verified",
+		"path": "../data/images/maryam.jpg",
+		"address": "To be verified..."
+	},
+	{
+		"nickname": "Head Girl",
+		"name": "Habiba Salihu",
+		"number": "07038117696",
+		"Status": "Married",
+		"left": "Jss1 - Sss3",
+		"course": "Micro-Biology",
+		"path": "../data/images/headgirl.jpg",
+		"address": "To be verified..."
+	},
+	{
+		"nickname": "Oshun",
+		"name": "Fatima Yusuf Alkali",
+		"number": "09034326103",
+		"Status": "Married",
+		"left": "Jss1 - Sss3",
+		"course": "To be verified",
+		"path": "../data/images/oshun.jpg",
+		"address": "To be verified..."
+	},
+	{
+		"nickname": "Sajo",
+		"name": "Dahiru Abubakar Sajo",
+		"number": "08038992",
+		"Status": "Single",
+		"left": "Jss1 - Jss3",
+		"course": "Urban and Reginal Planning",
+		"path": "../data/images/sajo.jpg",
+		"address": "No. 6 Majalisa street, behind central mosque Yola North"
+	},
+	{
+		"nickname": "Hindatu",
+		"name": "Hindatu Zakari",
+		"number": "08032729405",
+		"Status": "Married",
+		"left": "Jss1 - Sss3",
+		"course": "To be verified",
+		"path": "../data/images/hindatu.jpg",
+		"address": "To be verified"
+	},
+	{
+		"nickname": "Panyau",
+		"name": "Umar Yusuf Nadabo",
+		"number": "08068595010",
+		"Status": "Single",
+		"left": "Jss1 - Sss3",
+		"course": "Computer Science",
+		"path": "../data/images/panyau.jpg",
+		"address": "Bishop street---To be verified"
+	},
+	{
+		"nickname": "Dan-soja",
+		"name": "Ibrahim Suleiman",
+		"number": "07062666951",
+		"Status": "Single",
+		"left": "Sss1 - Sss3",
+		"course": "To be verified",
+		"path": "../data/images/dan-soja.jpg",
+		"address": "To be verified"
+	},
+	{
+		"nickname": "Mamaa",
+		"name": "Aisha Hamidu Maiha",
+		"number": "08024952887",
+		"Status": "To be verified",
+		"left": "Sss1 - Sss3",
+		"course": "To be verified",
+		"path": "../data/images/mamaa.jpg",
+		"address": "To be verified"
+	},
+	{
+		"nickname": "Chukkol",
+		"name": "Fatima Aminu Chukkol",
+		"number": "07039394166",
+		"Status": "To be verified",
+		"left": "To be verified",
+		"course": "To be verified",
+		"path": "../data/images/chukkol.jpg",
+		"address": "To be verified"
+	},
+	{
+		"nickname": "Akrakamakallah, ",
+		"name": "Abdulmalik Abdulrazak",
+		"number": "08064864929",
+		"Status": "Single",
+		"left": "Sss1 - Sss3",
+		"course": "To be verified",
+		"path": "../data/images/malik.jpg",
+		"address": "To be verified"
+	},
+	{
+		"nickname": "Saleh",
+		"name": "Yusuf Saleh Gambo",
+		"number": "08068121522",
+		"Status": "Single",
+		"left": "Sss1 - Sss3",
+		"course": "To be verified",
+		"path": "../data/images/sale.jpg",
+		"address": "Nepa Kasa----To be verified"
+	},
+	{
+		"nickname": "Aisha",
+		"name": "Aisha Musa",
+		"number": "07065361462",
+		"Status": "Married",
+		"left": "Jss1 - Sss3",
+		"course": "To be verified",
+		"path": "../data/images/aisha.jpg",
+		"address": "To be verified"
+	},
+	{
+		"nickname": "Ummul",
+		"name": "Ummul Tahir",
+		"number": "08137999831",
+		"Status": "To be verified",
+		"left": "Sss3 - Sss3",
+		"course": "To be verified",
+		"path": "../data/images/ummul.jpg",
+		"address": "To be verified"
+	},
+	{
+		"nickname": "Yaro-Yaro",
+		"name": "Halima Garba Yaro",
+		"number": "09039261295",
+		"Status": "Single",
+		"left": "Jss1 - Sss3",
+		"course": "To be verified",
+		"path": "../data/images/yaro.jpg",
+		"address": "To be verified"
+	},
+	{
+		"nickname": "Rafeedah",
+		"name": "Rafeedah Hasheem Basheer",
+		"number": "07043030193",
+		"Status": "To be verified",
+		"left": "Sss3 - Sss3",
+		"course": "To be verified",
+		"path": "../data/images/rafeedah.jpg",
+		"address": "To be verified"
+	},
+	{
+		"nickname": "DbashMan",
+		"name": "Muhammad Bashir Ubale",
+		"number": "07062032328",
+		"Status": "Single",
+		"left": "Sss1 - Sss3",
+		"course": "Sci. Labor. Tech. (SLT)",
+		"path": "../data/images/dbashman.jpg",
+		"address": "To be verified"
+	},
+	{
+		"nickname": "Military",
+		"name": "Ahmad Mohammed Ameenu",
+		"number": "07032288260",
+		"Status": "Single",
+		"left": "Sss3 - Sss3",
+		"course": "To be verified",
+		"path": "../data/images/military.jpg",
+		"address": "To be verified"
+	},
+	{
+		"nickname": "Aisha",
+		"name": "Aisha Mohammed Buba",
+		"number": "08162605277",
+		"Status": "To be verified",
+		"left": "Sss3 - Sss3",
+		"course": "To be verified",
+		"path": "../data/images/aisha.jpg",
+		"address": "To be verified"
+	},
+	{
+		"nickname": "AtikuMadu, Kintrebor",
+		"name": "Atiku Mohammed Mari",
+		"number": "08036835176",
+		"Status": "Single",
+		"left": "Sss1 - Sss3",
+		"course": "To be verified",
+		"path": "../data/images/atiku.jpg",
+		"address": "To be verified"
+	},
+	{
+		"nickname": "Babaa",
+		"name": "Baheer Hasheem Basheer",
+		"number": "07035525414",
+		"Status": "Single",
+		"left": "Sss3 - Sss3",
+		"course": "To be verified",
+		"path": "../data/images/bash.jpg",
+		"address": "To be verified"
 	}
 ]

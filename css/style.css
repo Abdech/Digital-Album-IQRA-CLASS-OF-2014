@@ -18,17 +18,39 @@
     justify-content: center;
     align-items: center;
     padding: 3rem;
-    display: none;
-
 }
 .local h4{
     text-align: center;
     margin: 4rem;
-    padding-right: 10%;
 }
 .designed{
     z-index: 100;
     position: fixed;
     right: 1rem;
     bottom: 1rem;
+}
+.badge-success{
+    display: flex;
+    justify-content: center;
+    padding: 1rem 3rem;
+    align-items: center;
+}
+.iqra{
+    display: flex;
+    justify-content: center;
+    color: darkgreen;
+    padding: 1rem;
+    margin: 1.5rem;
+}
+.status{
+   
+    /* font-size: large; */
+}
+.address{
+    /* font-size: large; */
+     color: #baddee;
+}
+
+.info{
+     color: #2a9fd6;
 }
