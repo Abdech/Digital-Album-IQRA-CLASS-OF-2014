@@ -6,7 +6,7 @@
 		"Status": "Single",
 		"left": "Jss1 - Sss3",
 		"course": "Computer Science",
-		"path": "../data/images/bk.jpg",
+		"path": "..\data\images\bk.jpg",
 		"address": "Bali Road Karewa GRA Jimeta/Yola, Adamawa"
 	},
 	{
@@ -74,7 +74,7 @@
 		"Status": "Married",
 		"left": "Jss1 - Sss3",
 		"course": "Micro-Biology",
-		"path": "../data/images/headgirl.jpg",
+		"path": "https://github.com/Abdech/Digital-Album-IQRA-CLASS-OF-2014/blob/master/data/images/Headgirl.jpg",
 		"address": "To be verified..."
 	},
 	{
