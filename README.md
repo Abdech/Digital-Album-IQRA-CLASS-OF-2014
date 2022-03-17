@@ -13,7 +13,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL:(https://abdech.github.io/advice-generator-app-main-advice-generator-app-main-Frontend-Mentor/)
+- Live Site URL:(https://abdech.github.io/Digital-Album-IQRA-CLASS-OF-2014/)
 
 ## My process
 

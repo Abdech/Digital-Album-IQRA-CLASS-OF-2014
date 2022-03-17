@@ -1,10 +1,19 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inspiration&family=Pacifico&family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,900&display=swap');
+.body{
+    font-family: rob;
+}
 .head{
-    color: darkgreen;
+   color: rgba(194, 186, 186);
+    text-shadow: 2px 2px 3px rgba(246, 252, 246, 0.3);
     font-weight: bold;
-    border: 1px solid white;
-    padding: 1rem;
+    border: 1px solid green;
+    padding: .5rem;
     display: flex;
-    justify-content: center;
+    justify-content: start;
+}
+.head .head-text{
+    /* color: rgb(1, 50, 1); */
 }
 
 .local{
@@ -18,22 +27,25 @@
     justify-content: center;
     align-items: center;
     padding: 3rem;
+    font-family: 'Pacifico', cursive;
 }
-.local h4{
+.local h5{
     text-align: center;
-    margin: 4rem;
+    margin: 4rem 4rem 1rem 4rem;
 }
 .designed{
     z-index: 100;
     position: fixed;
     right: 1rem;
     bottom: 1rem;
+    /* font-family: 'Pacifico', cursive; */
 }
 .badge-success{
     display: flex;
-    justify-content: center;
-    padding: 1rem 3rem;
+    justify-content: space-around;
+    padding: .5rem 3rem;
     align-items: center;
+    font-size: 1.5rem;
 }
 .iqra{
     display: flex;
@@ -41,6 +53,9 @@
     color: darkgreen;
     padding: 1rem;
     margin: 1.5rem;
+    font-size: 1.9rem;
+    text-shadow: 1px 1px 0px #fff, 1px 3px 0px rgba(0,0,0,0.15);
+    letter-spacing: .4rem;
 }
 .status{
    

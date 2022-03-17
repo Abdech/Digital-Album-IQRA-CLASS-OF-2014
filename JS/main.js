@@ -6,7 +6,6 @@ const authenLayer = document.querySelector('.local')
 const authBtn = document.querySelector('.badge-success')
 
 
-
 //simple authentication
 authBtn.addEventListener('click', () => {
     if (password.value === "iqra") {
@@ -14,6 +13,9 @@ authBtn.addEventListener('click', () => {
         search.focus()
     } else {
         authenLayer.innerHTML = "This is not the agreed password!!! Try again..."
+        setTimeout(() => {
+             location.reload();
+        },2000)
     }
 })
 
@@ -62,7 +64,7 @@ const outputHtml = matches =>{
          Course Studied or Studying: <span class="info"> ${match.course}</span>
     </p>
     <p> Address: <span class="address"> ${match.address} </span></p>
-    <img class="" src="${match.path}">
+    <img class="" src="${match.path}" alt="${match.name}">
 </div>
         `).join("")
         matchList.innerHTML =`<h5> Matches ${matches.length} </h5>` 
