@@ -86,7 +86,6 @@ body {
 }
 @media screen and (max-width: 470px) {
  .iqra {
-  color: rgb(87, 128, 87);
   padding: .5rem;
   margin: 1rem;
   font-size: 1.5rem;
