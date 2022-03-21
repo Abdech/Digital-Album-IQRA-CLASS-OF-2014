@@ -37,3 +37,25 @@ The next area I want to focus on this project is for the project to have top aut
 - Website - [Abdulaziz Saad](https://github.com/Abdech/Main_portfolio)
 - Twitter - [@azizsaadu](https://www.twitter.com/azizsaadu)
   
+{
+        "nickname": "Saheebah",
+        "name": "Fatima Aminu Chukkol",
+        "number": "07039394166",
+        "Status": "Single",
+        "left": "SSS3",
+        "course": "Education and Islamic Studies (B.A. ED)",
+        "path": "https://raw.githubusercontent.com/Abdech/Digital-Album-IQRA-CLASS-OF-2014/master/data/images/SAHEEBAH.jpg
+",
+        "address": "No 24 Mokolo Close Jimeta/Yola Adamawa"
+    },
+Tafida
+Ahmed baba tafida 
+08030470937
+Single 
+SS2- SS3
+Political science 
+No 97 tafida street jimeta,
+
+
+
+

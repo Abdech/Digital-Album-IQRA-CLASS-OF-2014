@@ -23,6 +23,17 @@ body {
   left: 0;
   right: 0;
 }
+::placeholder {
+  color: red;
+  opacity: 1; /* Firefox */
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+ color: red;
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+ color: red;}
 
 .local {
   position: fixed;
@@ -83,6 +94,11 @@ body {
   -webkit-backdrop-filter: blur(6px);
   border-radius: 10px;
   border: 1px solid rgba(255, 255, 255, 0.18);
+}
+#password{
+  background: white;
+  border: none;
+  border-radius: 3px;
 }
 @media screen and (max-width: 470px) {
  .iqra {

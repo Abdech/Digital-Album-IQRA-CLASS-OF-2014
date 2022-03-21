@@ -138,14 +138,14 @@
 		"address": "To be verified"
 	},
 	{
-		"nickname": "Chukkol",
+		"nickname": "Saheebah",
 		"name": "Fatima Aminu Chukkol",
 		"number": "07039394166",
-		"Status": "To be verified",
-		"left": "To be verified",
-		"course": "To be verified",
+		"Status": "single",
+		"left": "Sss1-Sss3",
+		"course": "Education and Islamic Studies (B.A. ED)",
 		"path": "https://raw.githubusercontent.com/Abdech/Digital-Album-IQRA-CLASS-OF-2014/master/data/images/chukkol.jpg",
-		"address": "To be verified"
+		"address": "No 24 Mokolo Close Jimeta/Yola Adamawa"
 	},
 	{
 		"nickname": "Akrakamakallah, ",
@@ -256,5 +256,26 @@
 		"course": "To be verified",
 		"path": "https://raw.githubusercontent.com/Abdech/Digital-Album-IQRA-CLASS-OF-2014/master/data/images/bash.jpg",
 		"address": "To be verified"
-	}
+	},
+	{
+		"nickname": "Tafida",
+		"name": "Ahmed Baba Tafida",
+		"number": "08030470937",
+		"Status": "Single",
+		"left": "Sss2 - Sss3",
+		"course": "Political science",
+		"path": "https://raw.githubusercontent.com/Abdech/Digital-Album-IQRA-CLASS-OF-2014/master/data/images/tafida.jpg",
+		"address": "To be verified"
+	},
+	{
+        "nickname": "Karshi, Daseen",
+        "name": "Sa’ad Abubakar Dasin",
+        "number": "08033141070",
+        "Status": "Single",
+        "left": "Jss1 - Sss3",
+        "course": "Pure and Applied Chemistry",
+        "path": "https://raw.githubusercontent.com/Abdech/Digital-Album-IQRA-CLASS-OF-2014/master/data/images/DASEEN.jpg",
+        "address": "No 24 Galadima Faruq Street, Yola South, Adamawa"
+    }
+	
 ]
